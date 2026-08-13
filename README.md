@@ -141,7 +141,7 @@ end
 </div>
 <br/>
 
-> These two graphics need one-time setup: add the [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) and [`github-contribution-grid-snake`](https://github.com/Platane/snk) GitHub Actions to this repo. Until then the images above will show as broken links — see the setup note at the end of this file.
+> These two graphics regenerate automatically via GitHub Actions. This repo is a fork, so Actions are disabled by default — enable them once under **Settings → Actions → General → Actions permissions**, then run each workflow once manually (**Actions tab → select workflow → Run workflow**) to generate the first snapshot. See the setup note at the end of this file.
 
 <br/>
 
@@ -250,15 +250,20 @@ end
 
 <!--
 SETUP NOTE (delete this comment once done):
-The 3D contribution graph and snake animation above need a one-time GitHub Actions
-setup in this repo (devraza-ali/devraza-ali):
+This repo is a fork of sghani001/sghani001, so GitHub Actions are disabled by
+default and none of the workflows below have ever run here. The workflow files
+themselves were also still pointing at the wrong GitHub username (sghani001
+instead of devraza-ali) — both issues are now fixed. To finish setup:
 
-1. 3D contribution graph: add .github/workflows/3d-profile.yml using
-   https://github.com/yoshi389111/github-profile-3d-contrib — it commits SVGs into
-   a profile-3d-contrib/ folder on a schedule.
-2. Snake animation: add .github/workflows/snake.yml using
-   https://github.com/Platane/snk — it commits SVGs to an `output` branch.
-
-Both are official, widely-used community Actions — just copy their sample workflow
-YAML into this repo's .github/workflows/ folder and they'll run automatically.
+1. Go to Settings → Actions → General → Actions permissions, and allow
+   Actions to run on this repo.
+2. Go to the Actions tab and manually run each workflow once
+   (workflow_dispatch) so the first snapshot gets generated:
+   - "GitHub-Profile-3D-Contrib" → commits SVGs into profile-3d-contrib/
+   - "Generate Snake" → commits SVGs to an `output` branch
+   - "Metrics" → needs a METRICS_TOKEN secret (Settings → Secrets and
+     variables → Actions) — a personal access token with repo/read:user
+     scope — or it will fail
+3. After that, they run on their own schedules (every 18h, 6h, and 24h
+   respectively) and keep the images above up to date.
 -->
