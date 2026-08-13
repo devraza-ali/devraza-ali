@@ -1,456 +1,264 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,35:1E1E1E,70:9A989A,100:E2C799&height=200&section=header&text=Syed%20M.%20Ghani&fontSize=52&fontColor=F3EFEA&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Rails%20%E2%80%A2%20React%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descColor=E2C799&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,35:1E1E1E,70:9A989A,100:E2C799&height=200&section=header&text=Raza%20Ali%20Malik&fontSize=52&fontColor=F3EFEA&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20React%2FNext.js%20%E2%80%A2%20Rails%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=16&descColor=E2C799&animation=fadeIn" width="100%"/>
 
-<!-- FLOATING STICKER (DIMFLIX style) + INTRO -->
+<!-- INTRO -->
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding animation"/>
 
 <h3>
   <samp>
     &gt; Hey There! I am &nbsp;
-    <b><a href="https://syedghani.is-a.dev/" target="_blank">Syed M. Ghani</a></b>
+    <b>Raza Ali Malik</b>
   </samp>
 </h3>
 
-<p><samp>「 Full-Stack Engineer · Building Production SaaS with Rails, React & AWS · Lahore 🇵🇰 」</samp></p>
+<p><samp>「 Full-Stack Software Engineer · React/Next.js & Ruby on Rails · Lahore 🇵🇰 」</samp></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=E2C799&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+Hotwire+%7C+PostgreSQL;AWS%3A+EC2+ECR+ECS+%C2%B7+RDS+%C2%B7+VPC+%C2%B7+IAM+%C2%B7+CloudWatch+%E2%98%81%EF%B8%8F;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=E2C799&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+4%2B+YOE;React.js+%2F+Next.js+%2F+TypeScript;Ruby+on+Rails+%E2%86%92+Production+SaaS;Sole+Developer+on+6%2B+Client+Projects+%F0%9F%9A%80;%24500K%2B+GMV+Processed+%C2%B7+2%2C000%2B+Active+Users" alt="Typing SVG"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sghani001)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/syedghani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D97B3F?style=for-the-badge&logo=vercel&logoColor=white)](https://syedghani.is-a.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedghani001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raza-malik-81109a268)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devraza-ali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razamalik9205909@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sghani001&label=PROFILE+VIEWS&color=D97B3F&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/sghani001?label=Followers&style=flat-square&color=D97B3F)](https://github.com/sghani001)
+![Profile Views](https://komarev.com/ghpvc/?username=devraza-ali&label=PROFILE+VIEWS&color=D97B3F&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/devraza-ali?label=Followers&style=flat-square&color=D97B3F)](https://github.com/devraza-ali)
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <br/>
 
 ---
-
 
 ## ⚡ About Me
 
 ```ruby
-class SyedGhani
+class RazaAliMalik
   ROLE       = "Full-Stack Software Engineer"
-  LOCATION   = "Lahore 🇵🇰  · Remote / On-site / Hybrid"
-  EXPERIENCE = "2+ years · Production SaaS · 6 shipped products"
-  COMPANY    = "Ex: Blackstack Software Solutions"
-  EDUCATION  = "B.Sc. CS — UET Lahore · GPA 3.1/4.0"
+  LOCATION   = "Lahore, Pakistan 🇵🇰"
+  EXPERIENCE = "4+ years production experience · 6+ SaaS platforms shipped"
+  COMPANY    = "Blackstack Software Solutions — Software Engineer II (Team Lead)"
+  EDUCATION  = "B.Sc. Computer Science — FAST NUCES, Lahore (2019–2023)"
 
   STACK = {
-    backend:      ["Ruby on Rails 5/6/7/8", "REST API", "PostgreSQL", "MySQL", "Redis", "Sidekiq", "Solid Queue", "Hotwire (Turbo + Stimulus)", "ActionCable"],
-    frontend:     ["React.js", "Redux Toolkit", "TailwindCSS", "React Query", "Vite", "JavaScript ES6+"],
-    cloud_devops: ["AWS (IAM, VPC, EC2, RDS, EBS, S3, CloudWatch)", "Docker", "GitHub Actions CI/CD", "Heroku"],
-    payments:     ["Stripe", "Paddle", "Chargebee"],
-    integrations: ["HubSpot CRM", "Salesforce", "Moodle LMS (SSO/LTI)", "Documenso (e-signatures)", "QuickBooks Online"],
-    open_source:  ["rails-persona 🎭", "rails-guarddog 🐕", "rails-tenantify 🚀", "rails-css_unused 🧹"],
-    rails_gems:   ["Devise", "Pundit", "Kaminari", "ActiveAdmin", "ActiveStorage", "Sidekiq"],
-    learning:     ["Python 🐍", "Django", "AI Automation ✦ Backend Tools"]
+    frontend: ["React.js", "Next.js", "TypeScript", "JavaScript ES6+", "TailwindCSS", "Material UI"],
+    backend:  ["Ruby on Rails 5/6/7", "Node.js", "REST API design", "PostgreSQL", "MySQL", "Redis", "ActiveRecord"],
+    payments: ["Stripe (subscriptions, webhooks, SCA)", "Chargebee"],
+    devops:   ["Docker", "Heroku", "AWS (EC2, RDS, S3)", "GitHub Actions"],
+    testing:  ["Jest", "RSpec"],
+    tools:    ["Git", "Figma", "Agile/Scrum", "OAuth 2.0"]
   }
 
   def superpower
-    "Sole engineer on CinnaLab PRM — designed, built, shipped & deployed to AWS end-to-end 🚀"
+    "Sole developer on 6+ client SaaS products — architecture to production, $500K+ GMV processed"
   end
 end
 ```
 
-<!-- ANIMATED DIVIDER -->
 <br/>
 
 ---
-
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend**
+
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Hotwire](https://img.shields.io/badge/Hotwire-3D2C48?style=for-the-badge&logo=turbo&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![RDS](https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Databases & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Integrations & Payments**
+**Cloud, DevOps & Payments**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Paddle](https://img.shields.io/badge/Paddle-003C3C?style=for-the-badge&logoColor=white)
 ![Chargebee](https://img.shields.io/badge/Chargebee-FF6633?style=for-the-badge&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
-![Documenso](https://img.shields.io/badge/Documenso-000000?style=for-the-badge&logoColor=white)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-A9225C?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <br/>
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
-> **Note:** Total Commits below includes private repos and all branches, refreshed live on every profile view (not a cached/scheduled snapshot).
-
 <div align="center">
-
-[![Profile](https://github-widgetbox.vercel.app/api/profile?username=sghani001&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/sghani001)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats (live, includes private repos + all commits)"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devraza-ali&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=E2C799&fire=D97B3F&currStreakLabel=E2C799&sideLabels=E2C799&background=161311" alt="Streak Stats"/>
-
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devraza-ali&theme=github-dark-blue&hide_border=true&border_radius=16&ring=E2C799&fire=D97B3F&currStreakLabel=E2C799&sideLabels=E2C799&background=161311" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sghani001&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraza-ali&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 ---
-
 
 ## ⚡ Contribution Activity
 
 <!-- 3D CONTRIBUTION PROFILE -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Syed Ghani 3D Contributions" width="100%"/>
+  <img src="https://raw.githubusercontent.com/devraza-ali/devraza-ali/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Raza Ali Malik 3D Contributions" width="100%"/>
 </div>
-
 <br/>
-
-<sub>The contribution/commit *count* shown inside this chart is a scheduled snapshot (updated by a GitHub Action, not on every page load), so treat the live stats card above as the accurate number if the two ever disagree — this chart is here for the visual, not as the source of truth.</sub>
-
-<br/><br/>
 
 <!-- GITHUB SNAKE GAME ANIMATION -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
+  <img src="https://raw.githubusercontent.com/devraza-ali/devraza-ali/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
+  <img src="https://raw.githubusercontent.com/devraza-ali/devraza-ali/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
 </div>
-
 <br/>
 
-</div>
+> These two graphics need one-time setup: add the [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) and [`github-contribution-grid-snake`](https://github.com/Platane/snk) GitHub Actions to this repo. Until then the images above will show as broken links — see the setup note at the end of this file.
 
-<!-- ANIMATED DIVIDER -->
-<br/>
-
----
-
-
-## 🧠 LeetCode Journey
-
-<!-- Live LeetCode card with heatmap — pulls from LeetCode API -->
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/syedghani?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16&site=com)](https://leetcode.com/syedghani/)
-
-</div>
-
-<br/>
-
-**Topic Coverage**
-
-<div align="center">
-
-![Array](https://img.shields.io/badge/◉◉◉◉◉_Array-D97B3F?style=flat-square)
-![String](https://img.shields.io/badge/◉◉◉◉_String-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
-![Two Pointers](https://img.shields.io/badge/◉◉◉_Two_Pointers-D97B3F?style=flat-square)
-![Hash Map](https://img.shields.io/badge/◉◉◉_Hash_Map-8FAE7F?style=flat-square)
-![Math](https://img.shields.io/badge/◉◉◉_Math-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
-![Linked List](https://img.shields.io/badge/◉◉_Linked_List-D97B3F?style=flat-square)
-![Dynamic Prog](https://img.shields.io/badge/◉◉_Dynamic_Prog-8FAE7F?style=flat-square)
-![Sliding Window](https://img.shields.io/badge/◉◉_Sliding_Window-D97B3F?style=flat-square)
-![Binary Search](https://img.shields.io/badge/◉_Binary_Search-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
-![Stack](https://img.shields.io/badge/◉_Stack-8FAE7F?style=flat-square)
-![Recursion](https://img.shields.io/badge/◉_Recursion-D97B3F?style=flat-square)
-![Sorting](https://img.shields.io/badge/◉_Sorting-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
-![Divide & Conquer](https://img.shields.io/badge/◉_Divide_%26_Conquer-8FAE7F?style=flat-square)
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
 <br/>
 
 ---
-
 
 ## 🚀 Experience
 
 <div align="center">
 
 ![Company](https://img.shields.io/badge/Blackstack_Software_Solutions-161311?style=for-the-badge&logoColor=white)
-![Role](https://img.shields.io/badge/Software_Engineer-E2C799?style=for-the-badge&logoColor=161311)
-![Duration](https://img.shields.io/badge/Aug_2024–May_2026-332E29?style=for-the-badge)
+![Role](https://img.shields.io/badge/Software_Engineer_II_(Team_Lead)-E2C799?style=for-the-badge&logoColor=161311)
+![Duration](https://img.shields.io/badge/Jan_2025–Present-332E29?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Lahore_🇵🇰-332E29?style=for-the-badge)
 
 </div>
 
 <br/>
 
-**🤖 CinnaLab PRM** &nbsp;·&nbsp; *Sole Engineer*
+**Software Engineer II (Team Lead)** · Blackstack Software Solutions · *Jan 2025 – Present*
+> Leading a development team across multiple client projects — mentoring junior developers, running code reviews, owning technical architecture decisions, and maintaining 100% on-time delivery.
 
-> AI-powered Partner Relationship Management · Full product ownership from design to production · HubSpot & Salesforce CRM (bi-directional sync) · Moodle LMS (SSO/LTI) · Documenso (e-signatures) · Stripe + Paddle + Chargebee billing · Multi-role RBAC with Devise + Pundit · Sidekiq background jobs with retry logic · ActiveAdmin dashboards · RSpec + FactoryBot test coverage
+**Software Engineer I / Associate** · Blackstack Software Solutions · *Sep 2023 – Dec 2024*
+> Sole developer on 6+ client projects — full-stack ownership from requirements through production deployment.
 
-<br/>
+**Software Engineer (Remote)** · Medical Guardian · *Jan 2025 – Present*
+> Built responsive UIs for a customer portal and mobile app using React/TypeScript, translated Figma designs to production code, and integrated secure authentication. Recognized for consistent delivery.
 
-**🏈 Intercollegiate** &nbsp;·&nbsp; *Full-Stack*
-
-> 2,500+ college athletics job listings · Multi-dimensional search (sport, division, conference, school, salary) · PostgreSQL query optimisation (40% faster) · Sidekiq email alerting · Kaminari pagination · ActiveAdmin recruiter tooling · Turbo Frames/Streams for real-time filtering
-
-<br/>
-
-**📚 Bullseye Education** &nbsp;·&nbsp; *Full-Stack*
-
-> K-12 instructional coaching platform · Teacher walkthrough & feedback capture (web + mobile-responsive) · Real-time principal/district dashboards · Deployed across multiple school districts
-
-<br/>
-
-**💰 Docyt** &nbsp;·&nbsp; *Backend*
-
-> Stripe payment microservice built from scratch · Subscriptions, billing cycles, idempotent webhook handling, failure recovery · PCI-aligned data-handling patterns · Microservices architecture
-
-<br/>
-
-**📊 Controllr / Monthend** &nbsp;·&nbsp; *Full-Stack*
-
-> Month-end finance SaaS · Devise auth + Google OAuth · QuickBooks Online bi-directional sync · Multi-step onboarding · Turbo Streams for live table updates
-
-<br/>
-
-**🔬 R&D Intern · KICS, UET Lahore** &nbsp;·&nbsp; *Jul – Oct 2023*
-
-> Proof-of-concept tools · Technical documentation · Collaboration with faculty & graduate researchers
-
-<br/>
-
-**💻 Web Dev Intern · Apex Space** &nbsp;·&nbsp; *Jun – Aug 2023*
-
-> Full-stack client features · Code reviews · Daily standups · Live deployment support
-
-<!-- ANIMATED DIVIDER -->
 <br/>
 
 ---
-
 
 ## 🎯 Featured Projects
 
 <table width="100%">
   <tr>
-    <!-- TASK MANAGER - NEW! -->
     <td width="50%" valign="top">
-      <h3>✅ task-manager-rails-aws <img src="https://img.shields.io/badge/AWS_Deployed-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Deployed"/></h3>
-      <a href="https://github.com/sghani001/task_manager_rails_aws"><b>View Repository</b></a>
-      <br/><br/>
-      <p>Real-time task manager built with <b>Rails 8 + Hotwire</b> (Turbo Streams over ActionCable, no React, no client-side JS state) plus a background job that pushes live UI updates on completion. Shipped with a <b>full AWS deployment guide</b> — both a click-through <b>Console (GUI)</b> path and a scripted <b>AWS CLI/IaC</b> path — provisioning VPC-scoped EC2 + RDS PostgreSQL with Docker, staying inside Free Tier ($0 cost).</p>
-      <code>Rails 8</code> &nbsp; <code>Hotwire</code> &nbsp; <code>Solid Queue</code> &nbsp; <code>Docker</code> &nbsp; <code>AWS (EC2/RDS/VPC/IAM)</code>
+      <h3>📦 Errands — Shipping & Logistics Platform</h3>
+      <p><i>Next.js + Rails · Sole Developer</i></p>
+      <p>Complete shipping platform serving <b>2,000+ users</b>, processing <b>$50K+ monthly GMV</b>. REST API handling 100+ requests/second. Cut page load from 4.2s → 1.8s via optimization and code-splitting. Stripe integration with idempotent webhooks — zero failed transactions. 99.5% uptime.</p>
+      <code>Next.js</code> &nbsp; <code>Rails</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Stripe</code>
     </td>
-    <!-- RAILS-GUARDDOG -->
     <td width="50%" valign="top">
-      <h3>🐕 rails-guarddog <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-guarddog.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-guarddog"><b>View Repository</b></a> &nbsp;·&nbsp;
-      <a href="https://rubygems.org/gems/rails-guarddog"><b>RubyGems</b></a>
-      <br/><br/>
-      <p>🚀 <b>1,300+ downloads in 24 hours!</b> Production-grade security scanner for Rails apps. Detects vulnerabilities Brakeman misses: AI/LLM injection, DoS/ReDoS patterns, supply chain typosquatting, IDOR gaps, and more. 12 comprehensive security checkers with CWE/OWASP mappings.</p>
-      <code>Ruby</code> &nbsp; <code>Security</code> &nbsp; <code>AST Analysis</code> &nbsp; <code>Production Ready</code>
+      <h3>🏥 Allergy Clinic Management</h3>
+      <p><i>React + Rails · Solo Full-Stack Ownership</i></p>
+      <p>Custom clinic platform for patient records, allergy tracking, appointments, and workflows. Automated 50+ daily manual entries, cutting admin overhead by 70%. Supports 200+ patient records in production with zero downtime and 99% feature adoption.</p>
+      <code>React</code> &nbsp; <code>Rails</code> &nbsp; <code>Workflow Automation</code>
     </td>
   </tr>
   <tr>
-    <!-- RAILS-PERSONA -->
     <td width="50%" valign="top">
-      <h3>🎭 rails-persona <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-persona"><b>View Repository</b></a> &nbsp;·&nbsp;
-      <a href="https://rubygems.org/gems/rails-persona"><b>RubyGems</b></a>
-      <br/><br/>
-      <p>Model-level behavioral analytics engine for Rails. Tracks user actions, analyzes onboarding friction, and handles heavy payloads using bulk database inserts and Sidekiq background jobs natively with zero external dependencies.</p>
-      <code>Ruby</code> &nbsp; <code>Rails Engine</code> &nbsp; <code>Sidekiq</code>
+      <h3>🏈 Fanlist — Sports Fan Platform</h3>
+      <p><i>Next.js + Rails</i></p>
+      <p>Real-time personalized content platform with 1,000+ active users. Cut API response time 60% via caching and query optimization, reduced frontend bundle size 40%, and shipped with 80%+ Jest coverage on critical paths.</p>
+      <code>Next.js</code> &nbsp; <code>Rails</code> &nbsp; <code>Jest</code> &nbsp; <code>Caching</code>
     </td>
-    <!-- RAILS-TENANTIFY -->
     <td width="50%" valign="top">
-      <h3>🚀 rails-tenantify <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-tenantify.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-tenantify"><b>View Repository</b></a> &nbsp;·&nbsp;
-      <a href="https://rubygems.org/gems/rails-tenantify"><b>RubyGems</b></a>
-      <br/><br/>
-      <p>Lightweight multi-tenancy infrastructure for SaaS applications. Automates sub-domain/request-based routing, secure database isolation scoping, and streamlined tenant onboarding workflows without the bloat of heavy legacy packages.</p>
-      <code>Ruby on Rails</code> &nbsp; <code>SaaS Architecture</code>
-    </td>
-  </tr>
-  <tr>
-    <!-- RAILS-CSS_UNUSED -->
-    <td width="50%" valign="top">
-      <h3>🧹 rails-css_unused <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-css_unused.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-css_unused"><b>View Repository</b></a> &nbsp;·&nbsp;
-      <a href="https://rubygems.org/gems/rails-css_unused"><b>RubyGems</b></a>
-      <br/><br/>
-      <p>Performance-focused static analysis tool. Scans your views, templates, and view components to locate and strip dead, unused CSS classes blocking your asset pipeline payload. Perfect for refactoring large legacy codebases.</p>
-      <code>Ruby</code> &nbsp; <code>Static Analysis</code> &nbsp; <code>Asset Pipeline</code>
-    </td>
-    <!-- PORTFOLIO -->
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio <img src="https://img.shields.io/badge/Status-Live-D97B3F?style=flat-square" alt="Status Live"/></h3>
-      <a href="https://github.com/sghani001/personal_portfolio"><b>View Repository</b></a> &nbsp;·&nbsp;
-      <a href="https://syedghani.is-a.dev/"><b>Live Site</b></a>
-      <br/><br/>
-      <p>Flagship frontend deployment showcasing interactive UI milestones. Built using modular React components, smooth layout transitions via Framer Motion, and highly optimized performance for an elite user experience.</p>
-      <code>React.js</code> &nbsp; <code>TailwindCSS</code> &nbsp; <code>Framer Motion</code>
+      <h3>🛍️ VUCustom — Multi-Tenant B2C Platform</h3>
+      <p><i>React + Rails</i></p>
+      <p>Built B2C features for the LAX brand on a multi-tenant platform spanning 5+ sub-brands. Led client demos, managed scope, shipped 8+ features on schedule, and reduced deployment errors 40% via automation.</p>
+      <code>React</code> &nbsp; <code>Rails</code> &nbsp; <code>Multi-Tenancy</code>
     </td>
   </tr>
 </table>
 
 <br/>
 
-**🧠 Urdu Signify** &nbsp;·&nbsp; `Python · GANs · NLP` &nbsp;·&nbsp; *Final Year Project — UET Lahore*
+---
 
-> Converts Urdu text to Pakistan Sign Language video animations using GANs + NLP. Real social impact for Pakistan's deaf community. Presented to UET faculty panel.
+## 🎓 Education
 
-<br/>
+**B.Sc. Computer Science** &nbsp;·&nbsp; FAST NUCES (Tier-1 University), Lahore &nbsp;·&nbsp; *2019 – 2023*
 
-**📝 [Online Exam System](https://github.com/sghani001/Online_Exam_System)** &nbsp;·&nbsp; `Rails · Devise · Pundit · RSpec`
-
-> Multi-role RBAC exam platform (admin / teacher / student) · Full exam lifecycle state machine · Clean Rails architecture with real-world gem usage
-
-<br/>
-
-**✈️ [HOS Trip Planner](https://github.com/sghani001/hos-trip-planner)** &nbsp;·&nbsp; `Python · Django`
-
-> Hours-of-service compliant trip planner built with Django
-
-<br/>
-
-**💬 [WhatsApp Chat Analyzer](https://github.com/sghani001/Whatsapp_Analyzer)** &nbsp;·&nbsp; `Python · pandas · Matplotlib`
-
-> Parses raw WhatsApp exports → analytics suite: message frequency, word clouds, participant rankings, time-trend charts
-
-<br/>
-
-**💡 [LeetCode Solutions](https://github.com/sghani001/Leetcode)** &nbsp;·&nbsp; `Ruby · Python`
-
-> 47 problems solved · 74.6% acceptance rate · Ruby + Python implementations
-
-<!-- ANIMATED DIVIDER -->
 <br/>
 
 ---
-
-
-### 📊 Open Source Impact
-
-<div align="center">
-
-| Gem | Downloads (live) | Stars (live) | Status |
-|-----|-----------|-------|--------|
-| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg?color=D97B3F)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-guarddog.svg?color=E2C799)](https://github.com/sghani001/rails-guarddog) | 🔥 Viral Launch |
-| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg?color=D97B3F)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-persona.svg?color=E2C799)](https://github.com/sghani001/rails-persona) | ⭐ Active |
-| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg?color=D97B3F)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-tenantify.svg?color=E2C799)](https://github.com/sghani001/rails-tenantify) | Active |
-| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg?color=D97B3F)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-css_unused.svg?color=E2C799)](https://github.com/sghani001/rails-css_unused) | Active |
-
-*Badges above pull live from the RubyGems/GitHub APIs — no manually-typed totals, so this table can't go stale like a hardcoded number would.*
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<br/>
-
-
----
-
-
-## 💬 Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="480" alt="Dev Quote"/>
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<br/>
-
----
-
 
 ## 🤝 Open to &nbsp;·&nbsp; 📫 Contact
 
 <table>
 <tr>
-
 <td valign="top" align="left">
 
 ### 🤝 Open to
-
 - **Remote roles** worldwide
 - **Lahore** on-site / hybrid
-- **Freelance** SaaS + AWS deployment projects
-- **Open-source** collaboration
-</td>
+- **Full-stack SaaS** engagements
+- **Team lead / senior IC** roles
 
+</td>
 <td valign="top" align="left">
 
 ### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D97B3F?style=for-the-badge&logo=vercel&logoColor=white)](https://syedghani.is-a.dev/)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedghani001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raza-malik-81109a268)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razamalik9205909@gmail.com)
 
 </td>
-
 </tr>
 </table>
+
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2C799,30:9A989A,65:1E1E1E,100:121212&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<samp>⚡ Building production SaaS on AWS · Open to work · Lahore on-site · Remote worldwide</samp>
-<br/>
-<i>Star ⭐ the repos if they helped you!</i>
+<samp>⚡ Building production SaaS · Open to work · Lahore on-site · Remote worldwide</samp>
 </div>
+
+<!--
+SETUP NOTE (delete this comment once done):
+The 3D contribution graph and snake animation above need a one-time GitHub Actions
+setup in this repo (devraza-ali/devraza-ali):
+
+1. 3D contribution graph: add .github/workflows/3d-profile.yml using
+   https://github.com/yoshi389111/github-profile-3d-contrib — it commits SVGs into
+   a profile-3d-contrib/ folder on a schedule.
+2. Snake animation: add .github/workflows/snake.yml using
+   https://github.com/Platane/snk — it commits SVGs to an `output` branch.
+
+Both are official, widely-used community Actions — just copy their sample workflow
+YAML into this repo's .github/workflows/ folder and they'll run automatically.
+-->
