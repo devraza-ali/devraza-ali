@@ -248,22 +248,3 @@ end
 <samp>⚡ Building production SaaS · Open to work · Lahore on-site · Remote worldwide</samp>
 </div>
 
-<!--
-SETUP NOTE (delete this comment once done):
-This repo is a fork of sghani001/sghani001, so GitHub Actions are disabled by
-default and none of the workflows below have ever run here. The workflow files
-themselves were also still pointing at the wrong GitHub username (sghani001
-instead of devraza-ali) — both issues are now fixed. To finish setup:
-
-1. Go to Settings → Actions → General → Actions permissions, and allow
-   Actions to run on this repo.
-2. Go to the Actions tab and manually run each workflow once
-   (workflow_dispatch) so the first snapshot gets generated:
-   - "GitHub-Profile-3D-Contrib" → commits SVGs into profile-3d-contrib/
-   - "Generate Snake" → commits SVGs to an `output` branch
-   - "Metrics" → needs a METRICS_TOKEN secret (Settings → Secrets and
-     variables → Actions) — a personal access token with repo/read:user
-     scope — or it will fail
-3. After that, they run on their own schedules (every 18h, 6h, and 24h
-   respectively) and keep the images above up to date.
--->
