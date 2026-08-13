@@ -1,5 +1,5 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,35:1E1E1E,70:9A989A,100:E2C799&height=200&section=header&text=Raza%20Ali%20Malik&fontSize=52&fontColor=F3EFEA&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20React%2FNext.js%20%E2%80%A2%20Rails%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=16&descColor=E2C799&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,35:1C1C1C,70:9A9A9A,100:8FB8FF&height=200&section=header&text=Raza%20Ali%20Malik&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20React%2FNext.js%20%E2%80%A2%20Rails%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=16&descColor=8FB8FF&animation=fadeIn" width="100%"/>
 
 <!-- INTRO -->
 <div align="center">
@@ -242,7 +242,7 @@ end
 </table>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2C799,30:9A989A,65:1E1E1E,100:121212&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FB8FF,30:9A9A9A,65:1C1C1C,100:121212&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <samp>⚡ Building production SaaS · Open to work · Lahore on-site · Remote worldwide</samp>
