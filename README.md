@@ -109,7 +109,7 @@ end
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devraza-ali&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=devraza-ali&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devraza-ali&theme=github-dark-blue&hide_border=true&border_radius=16&ring=E2C799&fire=D97B3F&currStreakLabel=E2C799&sideLabels=E2C799&background=161311" alt="Streak Stats"/>
 </div>
@@ -117,7 +117,7 @@ end
 <br/>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraza-ali&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devraza-ali&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
